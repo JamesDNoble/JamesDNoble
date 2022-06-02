@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JamesDNoble
-- 👀 I’m interested in ... learning, education, classroom tools, simulations, .
+- 👀 I’m interested in ... learning, education, classroom tools, simulations.
 - 🌱 I’m currently learning ... the basics.
 
 <!---
